@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**abstract-dll/abstract-dll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1000037199569489970)](https://discord.com/users/1000037199569489970)
+ 
+  i am it student that like code
+  i do the c# python and yes
+  i can do shit website
+  
+  i am learning cp
+</div>
