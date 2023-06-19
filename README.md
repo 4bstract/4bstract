@@ -1,6 +1,3 @@
 <div align=center>
- 
-  ignore how ugly this is  
-  I code in C# and Python  
-  Interested in: Reverse engineering, networking  
-  Currently learning C++  
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  
+ Interested in: Reverse engineering, networking  
