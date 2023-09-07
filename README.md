@@ -6,3 +6,4 @@
 
 I mainly use github for it's cloud capabilities with backing up my projects.  
 Most my repos are private because of this  
+I will only upload unique projects / pull requests etc 
