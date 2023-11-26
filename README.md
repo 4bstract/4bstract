@@ -3,8 +3,7 @@
 # Languages I use
 [![My Skills](https://skillicons.dev/icons?i=cs,py,cpp,html)](https://skillicons.dev)    
 <strong> Currently learning: C++ </strong>
-### Contact  
-**Discord**: pr0xychain  
+### Contact    
 **Telegram**: https://t.me/pr0xychain  
 ### Info
 I mainly use github for it's cloud capabilities with backing up my projects.  
