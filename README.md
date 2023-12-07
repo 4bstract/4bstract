@@ -8,7 +8,7 @@
 
 <img src="https://skillicons.dev/icons?i=discord">
 <br>
-<code>@codestealer</code>  
+<code>@pr0xychains</code>  
 
 #### System configuration
 <img src="https://skillicons.dev/icons?i=linux">  
