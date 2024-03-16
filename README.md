@@ -8,4 +8,3 @@
 **Contact me**  
 Discord: @xbhl  
 Telegram: t.me/xbhlll  
-E-Z: https://e-z.bio/xi  
