@@ -8,3 +8,4 @@
 **Contact me**  
 Discord: @xbhl  
 Telegram: t.me/xbhlll  
+![](https://komarev.com/ghpvc/?username=verticalsync)
