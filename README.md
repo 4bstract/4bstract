@@ -7,8 +7,15 @@ I am **self-taught** and only began programming around mid 2023.
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xbhl&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-**Contact me**  
-Discord: @xbhl  
-Telegram: t.me/xbhlll  
+### Active project
+<a href="https://github.com/xbhl/suncord-installer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xbhl&repo=suncord-installer&theme=tokyonight">
+</a>
 
-![](https://komarev.com/ghpvc/?username=xbhl)
+<details>
+<summary>Contact</summary>
+Discord: @xbhl <br>
+Telegram: t.me/xbhlll <br>
+</details>
+
+<br> ![](https://komarev.com/ghpvc/?username=xbhl)
