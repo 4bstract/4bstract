@@ -8,7 +8,7 @@ I am **self-taught** and only began programming around mid 2023.
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xbhl&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Active project
-<a href="https://github.com/xbhl/suncord-installer">
+<a href="https://github.com/xbhl/microphone-clap">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xbhl&repo=suncord-installer&theme=tokyonight">
 </a>
 
