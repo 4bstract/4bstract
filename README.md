@@ -9,7 +9,7 @@ I am **self-taught** and only began programming around mid 2023.
 
 ### Active project
 <a href="https://github.com/xbhl/microphone-clap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xbhl&repo=suncord-installer&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xbhl&repo=microphone-clap&theme=tokyonight">
 </a>
 
 <details>
