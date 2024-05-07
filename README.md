@@ -6,9 +6,5 @@
 <p> Currently I am finishing a college course regarding Information Technology; I plan on enrolling in a University that will expand my knowledge in Computer Science and Cybersecurity </p>
 <p> You can contact me here at <strong>@xbhl</strong> on discord</p>
 
-## Languages & Tools I use
-[![My Skills](https://skillicons.dev/icons?i=cs,py,cpp&perline=4&theme=dark)](https://skillicons.dev)    
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,linux&perline=4&theme=dark)](https://skillicons.dev)    
-
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xbhl&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![xbhl's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbhl&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
