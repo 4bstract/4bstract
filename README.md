@@ -11,8 +11,4 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,linux&perline=4&theme=dark)](https://skillicons.dev)    
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xbhl&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### Active project
-<a href="https://github.com/xbhl/microphone-clap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xbhl&repo=microphone-clap&theme=tokyonight">
-</a>
+[![xbhl's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbhl&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
