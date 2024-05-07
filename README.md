@@ -1,7 +1,12 @@
 # Xbhl, known under the handle "xi"
 ### Cybersecurity and Computer Science student 
-I am **self-taught** and only began programming around mid 2023.
-### Languages & Tools I use
+<p> I began <strong>self-taught</strong> and only began programming around mid 2023. </p>
+<p> I take an interest in <strong>lower level</strong> programming, currently learning C++ whilst overall trying to improve my current coding output such as formatting, conventions and matching industry standards.  </p>
+<p> Alongside programming, I plan on entering the field of Cybersecurity; including malware analysis, reverse engineering and such. </p>
+<p> Currently I am finishing a college course regarding Information Technology; I plan on enrolling in a University that will expand my knowledge in Computer Science and Cybersecurity </p>
+<p> You can contact me here at <strong>@xbhl</strong> on discord</p>
+
+# Languages & Tools I use
 [![My Skills](https://skillicons.dev/icons?i=cs,py,cpp&perline=4&theme=dark)](https://skillicons.dev)    
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,linux&perline=4&theme=dark)](https://skillicons.dev)    
 
@@ -11,11 +16,3 @@ I am **self-taught** and only began programming around mid 2023.
 <a href="https://github.com/xbhl/microphone-clap">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xbhl&repo=microphone-clap&theme=tokyonight">
 </a>
-
-<details>
-<summary>Contact</summary>
-Discord: @xbhl <br>
-Telegram: t.me/xbhlll <br>
-</details>
-
-<br> ![](https://komarev.com/ghpvc/?username=xbhl)
