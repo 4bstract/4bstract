@@ -1,4 +1,3 @@
-<h1 align=center> xbhl, known under the handle "xi" </h1>
 <h3 align=center> Cybersecurity and Computer Science student </h2>
 <ul align>
 <li> I began <strong>self-taught</strong> and only began programming around mid 2023. </p>
