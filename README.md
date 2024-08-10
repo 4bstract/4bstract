@@ -6,5 +6,5 @@
 <li> Enrolled in a Computer Science and Cybersecurity course in University </p>
 </ul>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xbhl&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![xbhl's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbhl&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![xbhl's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpwl&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vpwl&theme=default)](https://github.com/anuraghazra/github-readme-stats)
