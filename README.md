@@ -1,10 +1,13 @@
-<h3 align=center> Cybersecurity and Computer Science student </h2>
-<ul align>
-<li> I began <strong>self-taught</strong> and only began programming around mid 2023. </p>
-<li> I take an interest in <strong>lower level</strong> programming, currently learning C++</p>
-<li> Alongside programming, I plan on entering the field of Cybersecurity; including malware analysis, reverse engineering and such. </p>
-<li> Enrolled in a Computer Science and Cybersecurity course in University </p>
-</ul>
+<samp>
+  <h3 align=center> Cybersecurity and Computer Science student</h3>
+  <p align="center">
+    <img src="rainbowBar.png">
+  </p>
 
-[![xbhl's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpwl&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vpwl&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  <ul>
+    <li> I began <strong>self-taught</strong> and only began programming around mid 2023. </p>
+    <li> I take an interest in <strong>lower level</strong> programming, currently learning C++</p>
+    <li> Alongside programming, I plan on entering the field of Cybersecurity; including malware analysis, reverse engineering and such. </p>
+    <li> Studying a Bachelor's degree in Computer Science </p>
+  </ul>
+</samp>
