@@ -1,5 +1,5 @@
 <samp>
-  <h3 align=center> Cybersecurity and Computer Science student</h3>
+  <h3 align=center> Cybersecurity and Computer Science</h3>
   <p align="center">
     <img src="rainbowBar.png">
   </p>
