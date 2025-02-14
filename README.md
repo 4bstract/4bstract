@@ -11,4 +11,6 @@
     <li> Studying a Bachelor's degree in Computer Science </li>
     <li> Proficient in not having project ideas</li>
   </ul>
+  <p align="center">
+    Currently researching videogame cheats as a hobby with a deeper interest in Anti-cheats, understanding how and why they work. Understanding the functionality of a cheat and how to prevent it from interacting with the game and understanding how modern Anti-Cheats such as VAC and Vanguard protect their games.
 </samp>
